@@ -1,7 +1,7 @@
 {
 	"name": "angular-spinner",
 	"description": "Angular directive to show an animated spinner (using spin.js)",
-	"main": "./dist/angular-spinner.min.js",
+	"main": "./dist/angular-spinner.js",
     "author": "Uri Shaked",
 	"license": "MIT",
 	"homepage": "https://github.com/tadodotcom/bower-angular-spinner",
